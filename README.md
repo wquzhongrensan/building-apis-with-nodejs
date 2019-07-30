@@ -1,10 +1,8 @@
-# Building APIs with Node.js
+# restful api nodejs接口项目
 
-## About
+## 项目说明
 
-This repository have all pilot projects which are used in the ebook: [Building APIs with Node.js](http://www.apress.com/br/book/9781484224410).
+使用nodejs  + express 搭建restful api项目.
 
 
-## Author
-
-Caio Ribeiro Pereira - [https://crpwebdev.github.io](https://crpwebdev.github.io)
+## 其他
